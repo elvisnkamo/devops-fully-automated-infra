@@ -1,7 +1,7 @@
 # devops-fully-automated-infra
 Fully automated and secured Terraform infra pipeline
 
-Testing the Webhook.....
+Testing the Webhook to see if it works
 
 ## CICD Infra setup
 1) ###### GitHub setup
