@@ -52,4 +52,3 @@ resource "aws_iam_role" "iam_role" {
 
   # permissions_boundary = "arn:aws:iam::ACCOUNT_NUMBER:policy/ALBIngressControllerIAMPolicy"
 }
-
