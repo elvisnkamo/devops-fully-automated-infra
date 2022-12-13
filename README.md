@@ -1,7 +1,7 @@
 # devops-fully-automated-infra
 Fully automated and secured Terraform infra pipeline
 
-Testing testing testing
+Updating the read me file
 
 ## CICD Infra setup
 1) ###### GitHub setup
